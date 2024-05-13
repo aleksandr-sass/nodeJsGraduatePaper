@@ -22,6 +22,7 @@
   * courseName (string) // I will get it from that page, that user will see
   * tel (string: +37529 XXX XX XX)
   * Comment (string with length about 500 chars)
+  * Processed (обработан): Boolean
 2. **Выбор СУБД**
 Пока что есть два реальных варианта:
   * Sqlite (через модуль Sqlite3)
@@ -50,6 +51,7 @@ https://medium.com/devschacht/node-hero-chapter-5-dd79607858f2#:~:text=%C2%ABNod
 ### Ожидаемый конечный результат
 * Front-end -> Back-end <- Admin's page
 * Database & easy access to it
+* Admin can add service info to user's comment
 
 ### Minimum Viable Product
 * Есть сайт, на котором можно оставить свой номер телефона - и на следующий день тебя запишут на курсы.
