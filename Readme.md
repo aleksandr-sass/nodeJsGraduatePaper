@@ -1,3 +1,13 @@
+# Проект приостановлен 01.06.2024 - чересчур высокая сложность освоения NodeJS и PostgreSQL, а для решения текущей задачи вполне достаточно того API, которое предоставляет firebase.
+
+**Ранее были некоторые наработки по методичке Node Hero (cм. https://medium.com/devschacht/node-hero-chapter-5-dd79607858f2#:~:text=%C2%ABNode.,%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%B0%D1%8F%20NoSQL%20%D0%B1%D0%B0%D0%B7%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)%C2%BB )**
+
+**и**
+
+**( https://risingstack.com/resources/node-hero )**
+
+**( оставить email и companyName => книгу отправят на email )**
+
 # Node JS Graduate Paper
 ## JS by MDA
 ### 2024Q2
